@@ -159,10 +159,10 @@
                                 <rect key="frame" x="66" y="67" width="189" height="29"/>
                                 <color key="backgroundColor" red="0.82066209560000003" green="1" blue="0.77830214819999999" alpha="1" colorSpace="calibratedRGB"/>
                                 <segments>
-                                    <segment title="*"/>
-                                    <segment title="/"/>
                                     <segment title="+"/>
                                     <segment title="-"/>
+                                    <segment title="x"/>
+                                    <segment title="/"/>
                                 </segments>
                             </segmentedControl>
                         </subviews>
